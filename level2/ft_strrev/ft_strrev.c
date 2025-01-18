@@ -30,6 +30,6 @@ char    *ft_strrev(char *str)
 
 // int main()
 // {
-//     char str[] = "";
-//     printf("%s ", ft_strrev(str));
+//     char str[] = "BHUSHAN";
+//     printf("%s\n", ft_strrev(str));
 // }
